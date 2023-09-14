@@ -1,5 +1,5 @@
 # cse210-ww-student-template
-Jonathan Ortega
+Jonathan Ortega Alvarez
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
